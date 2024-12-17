@@ -40,3 +40,17 @@
 .read-the-docs {
   color: #888;
 }
+
+.button-style {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: #646cff;
+  color: white;
+  text-decoration: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.button-style:hover {
+  background-color: #747bff;
+}

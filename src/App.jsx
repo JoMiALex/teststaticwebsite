@@ -21,6 +21,9 @@ function App() {
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
         </button>
+        {/*<a href="https://us-east-1qw6jpbf66.auth.us-east-1.amazoncognito.com/login?client_id=4u90kdj2jif322fgaa5epq4h7b&response_type=code&scope=email+openid+phone&redirect_uri=http%3A%2F%2Flocalhost%3A5173%2F" className="button-style">
+          Log in
+        </a>*/}
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
